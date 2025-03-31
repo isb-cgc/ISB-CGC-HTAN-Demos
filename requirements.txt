@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+matplotlib
+scanpy
+celltypist
+scipy
+google-cloud-bigquery
+google.auth
+db-dtypes

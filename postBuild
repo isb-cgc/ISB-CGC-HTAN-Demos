@@ -1,0 +1,2 @@
+#!/bin/bash
+curl https://storage.googleapis.com/btep_key_bucket/key-file > ~/key-file
