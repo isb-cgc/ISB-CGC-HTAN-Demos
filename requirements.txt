@@ -8,5 +8,4 @@ scipy
 google-cloud-bigquery
 google.auth
 db-dtypes
-google-cloud-bigquery-storage
 pandas_gbq
